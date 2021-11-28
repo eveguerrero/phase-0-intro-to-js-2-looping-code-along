@@ -8,7 +8,7 @@ let event = birthday;
       let result = [];
     for(let x = 0; x < namesArray.length; x++){
         result.push(`Thank you, ${namesArray[x]}, for the wonderful ${event} gift!`)
-        x++;
+        
        
     }
     return result;
